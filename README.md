@@ -1,14 +1,12 @@
 # Sobre o projeto
 
-O projeto é uma aplicação web na qual os usuarios podem gerenciar suas tarefas diárias de forma eficiente, permitindo a criação, edição, exclusão e compartilhamento de tarefas publicas.
-
+O projeto é uma aplicação web na qual os usuarios podem gerenciar suas tarefas diárias de forma eficiente, permitindo a criação, exclusão e compartilhamento de tarefas publicas, na qual é possivel fazer comentários e interagir com outras tarefas publicas.
 
 # Tecnologias utilizadas
 
 - Front end
     - TypeScript
     - Next.js
-
 
 # Como executar o projeto
 
