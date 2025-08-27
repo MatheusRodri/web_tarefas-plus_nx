@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-O projeto é uma aplicação web na qual os usuarios podem gerenciar suas tarefas diárias de forma eficiente, permitindo a criação, exclusão e compartilhamento de tarefas publicas, na qual é possivel fazer comentários e interagir com outras tarefas publicas.
+O projeto é uma aplicação web na qual os usuarios podem gerenciar suas tarefas diárias de forma eficiente, permitindo a criação, exclusão e compartilhamento de tarefas publicas, na qual é possivel fazer comentários e interagir com outras tarefas publicas e com login via Google
 
 # Tecnologias utilizadas
 
